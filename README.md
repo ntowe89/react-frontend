@@ -1,3 +1,6 @@
+This is the frontend to a react application for people. It can take in new people, display current people in the database, and delete a person.
+Here is a link to the backtend "https://github.com/ntowe89/react-backend"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,6 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-This is the frontend to a react application for people. It can take in new people, display current people in the database, and delete a person.
-Here is a link to the backtend "https://github.com/ntowe89/react-backend"
